@@ -2,8 +2,8 @@
  PatientHub Assignment
 
 #**Prerequisites** 
-Java 17
-Maven
+Java 17, 
+Maven, 
 Eclipse or IntelliJ IDE
 
 **Maven commands to run Test cases and start the application**
