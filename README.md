@@ -8,7 +8,7 @@ Eclipse or IntelliJ IDE
 
 **Maven commands to run Test cases and start the application**
 
-mvn clean install
+mvn clean install to build and run Junit and Integration test cases.
 mvn spring-boot:run (default spring profile is dev, Spring profiler -Dspring-boot.run.profiles=qa
  helps to execute QA application properties and -Dspring-boot.run.profiles=prod helps to execute PROD application properties
 
